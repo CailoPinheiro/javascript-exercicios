@@ -1,5 +1,5 @@
 console.log(getScore(1000));
-alert(getScore(10));
+alert(getScore(1000));
 
 function getScore(value) {
     /*
